@@ -2,7 +2,7 @@ EV MARKET PERFORMANCE & INSIGHTS DASHBOARD — SUBMISSION NOTES
 Date: 27 October 2026
 Student: Sonakshi Sharma | Enrollment No.: EN25IT3010096
 Dashboard: https://public.tableau.com/views/EVMarketAnalysisDashboard_17930190186570/Dashboard1
-GitHub: https://github.com/hemantparmar04/EV-Market-Analysis-Dashboard
+GitHub: https://github.com/iamsonakshi07/EV-Market-Analysis-Dashboard
 
 Project facts used: approx. 199,999 distinct Vehicle Id records; average battery capacity 78.24 kWh; average driving range 324.5 km; charts by manufacturer and manufacturing country.
 
